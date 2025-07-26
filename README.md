@@ -70,5 +70,5 @@ This project analyzes the daily stock performance of **Alphabet Inc. (GOOGL)** f
 
 ---
 
-## 📁 Repository Structure
+
 
