@@ -49,6 +49,9 @@ This project analyzes the daily stock performance of **Alphabet Inc. (GOOGL)** f
 | **5. Average Monthly Volatility** | Line Chart    | Measures market uncertainty across time |
 | **6. Volatility Over Time**    | Line Chart        | Shows annual shifts in volatility levels |
 
+<img width="934" height="804" alt="Dashboard" src="https://github.com/user-attachments/assets/65fc6e66-0ac7-4f4d-bc0e-67ab53c8d429" />
+
+
 ---
 
 ## 📌 Key Findings
